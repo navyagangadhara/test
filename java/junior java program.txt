@@ -1,0 +1,10 @@
+package basic ;
+
+public class HelloWorld {
+    
+        static public void main (String [ ] a) {
+           //TODO Auto generated method stub 
+           system.out.println("Hello World !!!");
+       }
+
+ }
